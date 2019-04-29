@@ -7,7 +7,7 @@ public class Settings {
     public static int xValue = WIDTH;
     public static int yValue = HIGH;
     public static boolean start = false;
-    public static int heroLife = 3;
+    public static int heroLife = 100000;
     public static int bulletSpeed = 1; //problem definition
     public static int heroBulletInventory = 10;
     public static int enemyBulletInventory= 3;
