@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="AircraftBattle:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/AircraftBattle_jar</output-path>
-    <root id="archive" name="AircraftBattle.jar">
-      <element id="module-output" name="AircraftBattle" />
-    </root>
-  </artifact>
-</component>
